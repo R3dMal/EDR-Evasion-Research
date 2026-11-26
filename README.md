@@ -11,7 +11,7 @@ This project is a **security research framework** developed to study and documen
 - Academic research on endpoint security and detection engineering
 - Development and validation of EDR detection rules and countermeasures
 
-**Unauthorized use of this software against systems you do not own or have explicit written permission to test is illegal and unethical.** The author assumes no liability for misuse. Users are solely responsible for ensuring compliance with all applicable laws and regulations, including but not limited to the Computer Fraud and Abuse Act (CFAA), the UK Computer Misuse Act, and equivalent legislation in their jurisdiction.
+**Unauthorized use of this software against systems you do not own or have explicit written permission to test is illegal and unethical.** The author assumes no liability for misuse. Users are solely responsible for ensuring compliance with all applicable laws and regulations.
 
 ---
 
